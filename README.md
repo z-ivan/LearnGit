@@ -1,2 +1,2 @@
-# LearnReact
+# LearnGit
 my practice
