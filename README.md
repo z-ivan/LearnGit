@@ -1,2 +1,0 @@
-# LearnReact
-my practice
